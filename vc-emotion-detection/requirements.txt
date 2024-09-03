@@ -1,10 +1,36 @@
-# local package
--e .
-
-# external requirements
-click
-Sphinx
-coverage
-awscli
-flake8
-python-dotenv>=0.5.1
+arrow==1.3.0
+binaryornot==0.4.4
+certifi==2024.8.30
+chardet==5.2.0
+charset-normalizer==3.3.2
+click @ file:///D:/bld/click_1692312014553/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+cookiecutter==2.6.0
+idna==3.8
+Jinja2==3.1.4
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1714665484399/work
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+mdurl==0.1.2
+nltk @ file:///home/conda/feedstock_root/build_artifacts/nltk_1724022741962/work
+numpy @ file:///D:/bld/numpy_1724034970086/work/dist/numpy-2.1.0-cp312-cp312-win_amd64.whl#sha256=0560fe93c74698a4375f9dcd169e3ffdd7d3d125cfc62c137f0f36485e8cc023
+pandas @ file:///D:/bld/pandas_1715897834004/work
+Pygments==2.18.0
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+python-slugify==8.0.4
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+PyYAML==6.0.2
+regex @ file:///D:/bld/regex_1721873063977/work
+requests==2.32.3
+rich==13.8.0
+scikit-learn @ file:///D:/bld/scikit-learn_1719998235406/work/dist/scikit_learn-1.5.1-cp312-cp312-win_amd64.whl#sha256=434afc5bf31388176549f3bb6bfc3bf723ad0c72f56f52bf444eda9a6ce9f909
+scipy @ file:///C:/bld/scipy-split_1724327175978/work/dist/scipy-1.14.1-cp312-cp312-win_amd64.whl#sha256=88bbb11355e1cea1e02ee80740ceb5ce5475520fac7fb2bad34fdc5b70fd809f
+setuptools==72.2.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+text-unidecode==1.3
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1714400101435/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1722737464726/work
+types-python-dateutil==2.9.0.20240821
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
+urllib3==2.2.2
+wheel==0.44.0
